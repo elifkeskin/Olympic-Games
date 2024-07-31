@@ -8,18 +8,32 @@ Olympics, the most prestigious event in the life of athletes and aspiring athlet
 Data Fields:
 
 ID: Unique number of each athlete
+
 Name: Athlete's name.
+
 Sex: Male or Female.
+
 Age: Athlete's age.
+
 Height: Athlete's height in centimeters.
+
 Weight: Athlete's weight in kilograms.
+
 Team: Team's name.
+
 NOC: National Olympic Commitee 3-letter code.
+
 Games: Year and season in which the game was played.
+
 Year: Year in integer.
+
 Season: Summer or Winter
+
 City: Host city.
+
 Sport: Sport refers to which the sport was played.
+
 Event: Event.
+
 Medal: Gold, Silver, Bronze or NA.
 
